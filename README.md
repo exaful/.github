@@ -1,5 +1,9 @@
 # Exaful Web Presence
 
+
+## Website
+- [Official Website](https://exaful.com)
+
 ## Facebook
 - [Facebook Page](https://www.facebook.com/exaful/)
 
@@ -9,8 +13,8 @@
 ## LinkedIn
 - [LinkedIn Company Page](https://www.linkedin.com/company/exaful/)
 
-## Website
-- [Official Website](https://x.com/exaful?t=_vGWtDPisCH3hJITGNwWvg&s=08)
+## X(Twitter)
+- [X Twitter Page](https://x.com/exaful?t=_vGWtDPisCH3hJITGNwWvg&s=08)
 
 ## YouTube
 - [YouTube Channel](https://www.youtube.com/@exaful)
