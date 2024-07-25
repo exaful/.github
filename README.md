@@ -12,7 +12,7 @@
   
 
 ## Pinterest
-- [Pinterest Board](https://pin.it/5ITAR6knl)
+- [[Pinterest Board](https://pin.it/5ITAR6knl)](https://www.pinterest.com/exaful_com/)
   
 
 ## LinkedIn
